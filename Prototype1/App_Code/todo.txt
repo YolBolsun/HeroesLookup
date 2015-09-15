@@ -1,1 +1,4 @@
-﻿
+﻿This is where we create the classes that our web site will use -
+	A game that we want to get info from
+	A player to lookup on hotslog or through the api
+	Any other classes that will help us do what we want
